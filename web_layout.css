@@ -34,7 +34,7 @@ body {
 }
 
 .header-links a:hover {
-    color: #3498db;
+    color: #fcf7c7;
 }
 
 .header-icon {
@@ -204,3 +204,4 @@ hr {
         padding: 40px 20px;
     }
 }
+
